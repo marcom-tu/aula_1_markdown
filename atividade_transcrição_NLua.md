@@ -6,7 +6,7 @@
 
 Cppyright (c) 2026 Vinicius Jarina ( <viniciusjarina@gmail.com> )
 
-# NLua 1.4x
+# NLua 1.4.x
 NLua passou por uma grande limpea e refatoração após alguns anos.
 * Migrado para o estilo .NET C#.
 * Utilizando KeraLua como dependência NuGet.
